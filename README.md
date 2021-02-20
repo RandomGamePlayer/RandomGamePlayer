@@ -1,7 +1,6 @@
 ### Welcome to my profile :D
 I am currently learning unity
 
-
 I also have skill in blender!
 
 <!--
