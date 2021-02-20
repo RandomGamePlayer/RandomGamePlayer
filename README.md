@@ -1,4 +1,5 @@
 ### Welcome to my profile :D
+I am currently learning unity and can do blender!
 
 <!--
 **RandomGamePlayer/RandomGamePlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
