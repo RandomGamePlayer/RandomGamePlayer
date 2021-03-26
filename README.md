@@ -1,10 +1,10 @@
 ### Welcome to my profile 
 I am currently learning unity
 
-I also have skill in blender
+I also have some skill in blender
 
 <!--
-**RandomGamePlayer/RandomGamePlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**just-a-github-user/just-a-github-user** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![RandomGamePLayer's github stats](https://github-readme-stats.vercel.app/api?username=RandomGamePlayer&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![just-a-github-user's github stats](https://github-readme-stats.vercel.app/api?username=just-a-github-user&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
